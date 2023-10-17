@@ -1,8 +1,11 @@
 # leakage_detection
 2022 소방안전빅데이터 플랫폼 에서 주최한 지하배관 안전관리 빅데이터 경진대회
 
+프로젝트 진행 기간 (ex. 2022.10 ~ 2022.11) 
+
 ### [develop environment]
 tensorflow 2.9.2 
+
 google colab
 ## 📁Project name📁
 ### Underground pipeline leak detection system 지하배관 누출여부 탐지 시스템
