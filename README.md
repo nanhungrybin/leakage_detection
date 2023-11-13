@@ -15,3 +15,7 @@ google colab
 ![image](https://github.com/nanhungrybin/leakage_detection/assets/97181397/056b14bd-83b4-41e4-bfeb-fcc1917d9e95)
 ![image](https://github.com/nanhungrybin/leakage_detection/assets/97181397/ddb86ea5-bec0-441e-9e33-dd017d8b8a05)
 
+### [성과] 
+누출감지 정확도 : 88.47%
+누출위치 추정 오차율 : 13.31%
+순위: 6위
