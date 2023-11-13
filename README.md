@@ -5,9 +5,9 @@
 2022.10 ~ 2022.11
 
 ### [develop environment]
-tensorflow 2.9.2 
-
-google colab
+- tensorflow 2.9.2 
+- google colab
+  
 ## 📁Project name📁
 ### Underground pipeline leak detection system 지하배관 누출여부 탐지 시스템
 
@@ -16,6 +16,6 @@ google colab
 ![image](https://github.com/nanhungrybin/leakage_detection/assets/97181397/ddb86ea5-bec0-441e-9e33-dd017d8b8a05)
 
 ### [성과] 
-누출감지 정확도 : 88.47%
-누출위치 추정 오차율 : 13.31%
-순위: 6위
+- 누출감지 정확도 : 88.47%
+- 누출위치 추정 오차율 : 13.31%
+- 순위: 6위
